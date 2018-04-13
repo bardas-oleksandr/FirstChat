@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Homework_12" />
+        <module name="Homework_13" />
+        <module name="Homework_16.1" />
+        <module name="Homework_17" />
+        <module name="Homework_17.1" />
+        <module name="Homework_18" />
+        <module name="Homework_19" />
+        <module name="Homework_20" />
+        <module name="Homework_21" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Homework_12" target="1.8" />
+      <module name="Homework_13" target="1.8" />
+      <module name="Homework_16.1" target="1.8" />
+      <module name="Homework_17" target="1.8" />
+      <module name="Homework_17.1" target="1.8" />
+      <module name="Homework_18" target="1.8" />
+      <module name="Homework_19" target="1.8" />
+      <module name="Homework_20" target="1.8" />
+      <module name="Homework_21" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
